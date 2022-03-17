@@ -1,0 +1,4 @@
+{
+    "trailingComma" : "none",
+    "react/jsx-curly-newline": "off"
+}
